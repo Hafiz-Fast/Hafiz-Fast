@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arham Zeeshan, a sophomore computer science student.
+- 👋 Hi, I’m Arham Zeeshan, a Third Year computer science student.
 - 👀 I’m interested in AI and Machine Learning.
 - 🌱 I’m currently working on sql along with Web development frameworks like React and Node.js
 - ⚡ Fun fact: Limits are only decided in Integration
