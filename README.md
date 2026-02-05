@@ -74,11 +74,11 @@ Expense Analytics App (Web & Mobile)
 
 ---
 
-## 📊 GitHub Stats (Minimal)
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hafiz-Fast&show_icons=true&theme=default&hide_border=true" />
-</p>
+- Actively building full-stack and AI projects
+- Strong focus on backend architecture & clean code
+- Consistent academic + project-based development
 
 ---
 
