@@ -69,7 +69,7 @@ AI-Powered Medical Assistant
 
 ### 💰 Budget Tracker  
 **MERN · React Native**  
-Expense Tracker (Web & Mobile)  
+Expense Analytics App (Web & Mobile)  
 🔗 https://github.com/Hafiz-Fast/Budget-Tracker  
 
 ---
