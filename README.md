@@ -69,7 +69,7 @@ AI-Powered Medical Assistant
 
 ### MAILSENSE  
 **Django · React · Automation**  
-AI and Gmail Automated Opportunity Finder
+AI and Gmail Automated Opportunity Finder                                                                                                                                     
 🔗 https://github.com/Hafiz-Fast/MAILSENSE  
 
 ---
