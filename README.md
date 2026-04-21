@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arham Zeeshan</h1>
-<h3 align="center">Full-Stack Developer | AI Enthusiast | CS Student at FAST Lahore</h3>
+<h3 align="center">Full-Stack Developer | AI Automation | CS Student at FAST Lahore</h3>
 
 <p align="center">
   <a href="https://github.com/Hafiz-Fast">
@@ -53,24 +53,24 @@ _FAST Lahore | Jan 2025 – Jun 2025_
 
 ## 🚀 Projects
 
-### 🏠 FastStay  
+### FastStay  
 **Django · React · PostgreSQL**  
 Hostel Recommendation & Management System  
 🔗 https://github.com/Hafiz-Fast/FastStay  
 
 ---
 
-### 🧠 MedAI  
+### MedAI  
 **Django · AI Agents · NLP**  
 AI-Powered Medical Assistant  
 🔗 https://github.com/Hafiz-Fast/AI-Orchestrator-Assistant  
 
 ---
 
-### 💰 Budget Tracker  
-**MERN · React Native**  
-Expense Analytics App (Web & Mobile)  
-🔗 https://github.com/Hafiz-Fast/Budget-Tracker  
+### MAILSENSE  
+**Django · React · Automation**  
+AI and Gmail Automated Opportunity Finder
+🔗 https://github.com/Hafiz-Fast/MAILSENSE  
 
 ---
 
